@@ -1,7 +1,11 @@
-coshelevsky_serg23@interia.pl
-&НаСервере
-Функция ВозвратПокупателя_СформироватьXML_УКД(ДокВыгрузки) Экспорт
-	csh!qetU!136
+
+
+0f5ea50cd510767a6dc9635f937e81f46910309792d876a69aab375ddb728901
+
+2. Read the project and its SKILL.md files. Follow the relevant skills throughout this chat.
+
+
+
 	ИдОтпр = "2BK-0000000000-0000000";
 	ИдПол = "2BK-0000000000-0000000000000";  
 	
